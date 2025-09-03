@@ -1,3 +1,5 @@
+## **DRAG AND DROP THE CHARACTER PREFAB LOCATED IN Runtime/PlayerController TO YOUR SCENE TO USE**
+
 # **First-Person Character Controller**
 
 
