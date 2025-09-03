@@ -23,15 +23,15 @@ This controller relies on two key assets. Make sure they are installed in your p
 A specific GameObject hierarchy is required for the controller to function correctly. **This should already be present in the hierarchy upon importing this package**
 
 
-\- Player (GameObject)  [With: Player Script]
-  \- Character (GameObject) [With: Capsule Collider, Kinematic Character Motor Script, Player Character Script]
-    \- Root (GameObject, for scaling)  
-      \- Render (GameObject with Mesh, for visual appearance)
-    \- CameraTarget (GameObject, set for camera positioning)
-  \- Camera (Gameobject) [With: Player Camera Script]
-   \- Spring (Optional Gameobject) [With: Camera Sprint Script]
-    \- Lean (Optional Gameobject) [With: Camera Lean Script]
-     \- MainCamera (Gameobject, for display)
+- Player (GameObject)  [With: Player Script]
+  - Character (GameObject) [With: Capsule Collider, Kinematic Character Motor Script, Player Character Script]
+    - Root (GameObject, for scaling)  
+      - Render (GameObject with Mesh, for visual appearance)
+    - CameraTarget (GameObject, set for camera positioning)
+  - Camera (Gameobject) [With: Player Camera Script]
+    - Spring (Optional Gameobject) [With: Camera Sprint Script]
+    - Lean (Optional Gameobject) [With: Camera Lean Script]
+      - MainCamera (Gameobject, for display)
  
 **Player (Root Object):** Holds the Player.cs script for input capture and the PlayerInput component.  
 **PlayerCharacter (Child Object):** The character's physical representation. Requires the KinematicCharacterMotor.cs and PlayerCharacter.cs scripts.  
