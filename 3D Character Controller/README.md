@@ -1,6 +1,7 @@
-## **DRAG AND DROP THE CHARACTER PREFAB LOCATED IN Runtime/PlayerController TO YOUR SCENE TO USE**
+## **DRAG AND DROP THE CHARACTER PREFAB LOCATED IN Runtime/PlayerController TO YOUR SCENE TO USE!!**
+Special thanks to @beans for the character tutorial
 
-# **First-Person Character Controller**
+# **Advanced First-Person Character Controller**
 
 
 A modular and customizable 3D physics-based fps character controller for Unity, featuring mechanics such as sliding, coyote time, and jump buffering.
