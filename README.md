@@ -1,1 +1,1 @@
-Standardized modular packages that I've made for use in various unity projects
+Standardized modular packages that i will recycle to use in various projects
