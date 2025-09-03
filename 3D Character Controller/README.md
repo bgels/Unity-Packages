@@ -1,5 +1,5 @@
 ## **DRAG AND DROP THE CHARACTER PREFAB LOCATED IN Runtime/PlayerController TO YOUR SCENE TO USE!!**
-Special thanks to @beans for the character tutorial
+Special thanks to @KeenanWoodall for the character tutorial
 
 # **Advanced First-Person Character Controller**
 
